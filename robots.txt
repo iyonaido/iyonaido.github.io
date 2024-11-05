@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyonaido.github.io/MKu/sitemap_index.txt
+Sitemap: https://iyonaido.github.io/fMy/sitemap_index.txt
+Sitemap: https://iyonaido.github.io/oHC/sitemap_index.txt
+Sitemap: https://iyonaido.github.io/yEj/sitemap_index.txt
